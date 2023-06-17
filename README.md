@@ -1,5 +1,8 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YunHaaaa&theme=dracula&show_icons=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=YunHaaaa&theme=dracula&show_icons=true" />-->
+
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunHaaaa&exclude_repo=https://github.com/YunHaaaa&layout=compact&theme=dracula" />
 
 <div align="center">
 
@@ -9,7 +12,9 @@
 <br>
 
 <a href="https://github.com/YunHaaaa">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunHaaaa%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
-<br>
+[<img src="https://img.shields.io/badge/Hugging%20Face-Haaaaeun-FF9F00?style=flat-square&logo=hugging%20face&logoColor=white">](https://huggingface.co/Haaaaeun)
+
+
 <a href="https://www.instagram.com/eyunha4.v/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white&style=margin-right: 100px"/>
 </a>
 <a href="https://getting-started-assemble.tistory.com/">
@@ -27,6 +32,7 @@
   
   <!-- Programming -->
   #### Programming:
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&style=margin-right: 100px">
@@ -66,15 +72,5 @@
 </div>
 </div><br><br>
 
----
-
-<br>
- 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunHaaaa&exclude_repo=https://github.com/YunHaaaa&layout=compact&theme=dracula" />
 
 
-<br><br>
-
-
-
-    
