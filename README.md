@@ -1,4 +1,3 @@
-
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=YunHaaaa&theme=dracula&show_icons=true" />-->
 
  
@@ -17,8 +16,8 @@
 
 <a href="https://www.instagram.com/eyunha4.v/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white&style=margin-right: 100px"/>
 </a>
-<a href="https://getting-started-assemble.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&style=margin-right: 100px">
+<a href="https://velog.io/@yun_haaaa">
+  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white&style=margin-right: 100px">
 </a>
 <a href="mailto:qlxqlrt2012@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&style=margin-right: 100px">
@@ -37,6 +36,11 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&style=margin-right: 100px">
 
+  <!-- Frameworks -->
+  #### Frameworks:
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&style=margin-right: 100px">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&style=margin-right: 100px">
+
   <!-- Deep Learning -->
   #### Deep Learning:
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&style=margin-right: 100px">
@@ -44,6 +48,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Hugging%20Face-FF9F00?style=flat-square&logo=hugging%20face&logoColor=white&style=margin-right: 100px">
 
+  
   <!-- Development Tools -->
   #### Development Tools:
   <img src="https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white&style=margin-right: 100px">
@@ -51,11 +56,6 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white&style=margin-right: 100px">
 
-  <!-- Platform -->
-  #### Platform
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&style=margin-right: 100px">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&style=margin-right: 100px">
-  <img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white&style=margin-right: 100px">
 
   <!-- Tooling/ DevOps -->
   #### Tooling/ DevOps
@@ -71,6 +71,3 @@
 
 </div>
 </div><br><br>
-
-
-
