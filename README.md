@@ -48,7 +48,8 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Hugging%20Face-FF9F00?style=flat-square&logo=hugging%20face&logoColor=white&style=margin-right: 100px">
 
-  
+
+
   <!-- Development Tools -->
   #### Development Tools:
   <img src="https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white&style=margin-right: 100px">
@@ -71,3 +72,7 @@
 
 </div>
 </div><br><br>
+
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
