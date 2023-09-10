@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -13,11 +13,13 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
-      - uses: actions/checkout@v2
-        with:
-          submodules: 'recursive' # Add this line to ensure submodules are also checked out
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+          node-version: '16' # Node.js 16로 설정
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install Dependencies
+        run: npm install
+      - name: Run GitHub-Profile-3D-Contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
