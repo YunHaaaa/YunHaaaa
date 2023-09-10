@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&style=margin-right: 100px">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&style=margin-right: 100px">
+
 
   <!-- Frameworks -->
   #### Frameworks:
