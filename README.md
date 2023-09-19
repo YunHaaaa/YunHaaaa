@@ -5,8 +5,6 @@
 
 ## HaEun 
 
-<br>
-
 <a href="https://github.com/YunHaaaa">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunHaaaa%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 [<img src="https://img.shields.io/badge/Hugging%20Face-Haaaaeun-FF9F00?style=flat-square&logo=hugging%20face&logoColor=white">](https://huggingface.co/Haaaaeun)
 <a href="mailto:qlxqlrt2012@gmail.com">
@@ -15,8 +13,10 @@
 
 </div><br>
 
-### Experience
 
+
+### 🧗🏻‍♀️ Experience
+----
 
 **[⚽ Kudos](https://www.notion.so/Kudos-d9c196bb1a2547bbbf317e530b945cee?pvs=21)** : The RoboCup Humanoid Soccer Competition
 
@@ -42,7 +42,7 @@ April 18, 2022 - February 18, 2023
 <br>
 
 
-**[🍯 Beeside](https://www.notion.so/Beeside-4beeda2d9b4a48a6b26649333e2322e6?pvs=21)** : Application Automation
+**[🍯 Beeside](https://www.notion.so/Beeside-4beeda2d9b4a48a6b26649333e2322e6?pvs=21)** : Open SW Developer Conference
 
 March 2023 - In progress
 
@@ -65,7 +65,11 @@ March 2023 - Jun 2023
 
 
 <div align="left"><br>
-  
+
+### 📌 Stacks
+
+----
+
   <!-- Programming -->
   #### Programming:
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&style=margin-right: 100px">
