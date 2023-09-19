@@ -23,7 +23,7 @@
 April 2022 - In progress
 
 - Vision Team
-- Vision 3, Control 3, Design 2
+- Vision 2, Control 3, Design 2
 - EdgeTPU, Tensorflow Lite OpenCV, Pytorch, ROS
 
   
@@ -55,7 +55,7 @@ March 2023 - In progress
 
 **[🧟 Anti-Troll](https://www.notion.so/Anti-Troll-96c57b706ded4c3d8cf9a76ebe684aa0?pvs=21)** : Real-Time Hate Comment Filtering
 
-March 2023 - In progress
+March 2023 - Jun 2023
 
 - ML Model Developer
 - Process 2, Model 1
