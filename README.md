@@ -94,8 +94,6 @@ March 2023 - Jun 2023
   <img src="https://img.shields.io/badge/Hugging%20Face-FF9F00?style=flat-square&logo=hugging%20face&logoColor=white&style=margin-right: 100px">
   
 
-
-
   <!-- Development Tools -->
   #### Development Tools:
   <img src="https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white&style=margin-right: 100px">
@@ -104,10 +102,11 @@ March 2023 - Jun 2023
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white&style=margin-right: 100px">
   
 
-
   <!-- Tooling/ DevOps -->
   #### Tooling/ DevOps
   <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=github%20actions&logoColor=white&style=margin-right: 100px">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&style=margin-right: 100px">
+
 
   <!-- Collaboration tools -->
   #### Collaboration tools
