@@ -100,7 +100,15 @@ March 2023 - Jun 2023
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white&style=margin-right: 100px">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white&style=margin-right: 100px">
+
   
+  <!-- Hardware 카테고리 -->
+  #### Hardware:
+  <img src="https://img.shields.io/badge/Intel%20NUC-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel NUC">
+  <img src="https://img.shields.io/badge/Google%20Coral-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Coral">
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson Nano">
+
 
   <!-- Tooling/ DevOps -->
   #### Tooling/ DevOps
