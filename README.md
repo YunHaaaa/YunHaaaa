@@ -3,7 +3,7 @@
 <div align="right">
 
 
-## HaEun 
+# HaEun's GitHub 
 
 <a href="https://github.com/YunHaaaa">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunHaaaa%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 [<img src="https://img.shields.io/badge/Hugging%20Face-Haaaaeun-FF9F00?style=flat-square&logo=hugging%20face&logoColor=white">](https://huggingface.co/Haaaaeun)
@@ -46,7 +46,7 @@ April 18, 2022 - February 18, 2023
 
 March 2023 - In progress
 
-- DevOps Developer
+- DevOps, FrontEnd Developer
 - Developer 3, Designer 1
 - IOS, GithubActions, Chat GPT API, Flutter, AWS
 
