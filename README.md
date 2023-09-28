@@ -86,9 +86,8 @@ March 2023 - Jun 2023
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&style=margin-right: 100px">
 
-  <!-- Deep Learning -->
-  #### Deep Learning:
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&style=margin-right: 100px">
+  <!-- Machine Learning -->
+  #### Machine Learning:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Hugging%20Face-FF9F00?style=flat-square&logo=hugging%20face&logoColor=white&style=margin-right: 100px">
@@ -103,8 +102,11 @@ March 2023 - Jun 2023
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white&style=margin-right: 100px">
 
   
-  <!-- Hardware 카테고리 -->
-  #### Hardware:
+  <!-- Robotics -->
+  #### Robotics:
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white&style=margin-right: 100px">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&style=margin-right: 100px">
+  
   <img src="https://img.shields.io/badge/Intel%20NUC-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel NUC">
   <img src="https://img.shields.io/badge/Google%20Coral-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Coral">
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson Nano">
