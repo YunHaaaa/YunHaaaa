@@ -6,6 +6,8 @@
 # HaEun's GitHub 
 
 <a href="https://github.com/YunHaaaa">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunHaaaa%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
+<a href="https://velog.io/@yun_haaaa">
+  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white&style=margin-right: 100px">
 [<img src="https://img.shields.io/badge/Hugging%20Face-Haaaaeun-FF9F00?style=flat-square&logo=hugging%20face&logoColor=white">](https://huggingface.co/Haaaaeun)
 <a href="mailto:qlxqlrt2012@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&style=margin-right: 100px">
@@ -13,22 +15,82 @@
 
 </div><br>
 
+<br>
 
+## 🧗🏻‍♀️ Experience
 
-### 🧗🏻‍♀️ Experience
-----
 
 **[⚽ Kudos](https://www.notion.so/Kudos-d9c196bb1a2547bbbf317e530b945cee?pvs=21)** : The RoboCup Humanoid Soccer Competition
 
-April 2022 - In progress
+April 2022 - In progress 🏃🏻‍♀️
 
 - Vision Team
 - Vision 2, Control 3, Design 2
 - EdgeTPU, Tensorflow Lite OpenCV, Pytorch, ROS
 
-  
 <br>
 
+<br>
+
+**[📗 UROP](https://www.notion.so/UROP-eb06e2cdbbea42bbb493631ca795c71a?pvs=21)** : Participation in undergraduate research
+
+September 2023 - In progress 🏃🏻‍♀️
+
+- ML Developer
+- Developer 1
+- NLP, Knowledge Distillation, Pruning
+
+<br>
+
+<br>
+
+**[🍯 Beeside](https://www.notion.so/Beeside-4beeda2d9b4a48a6b26649333e2322e6?pvs=21)** : Open SW Developer Conference 2023
+
+March 2023 - In progress 🏃🏻‍♀️
+
+- DevOps, Frontend Developer
+- Developer 3, Designer 1
+- IOS, GithubActions, Chat GPT API, Flutter, AWS
+
+<br>
+
+<br>
+
+**💬 Obzen** : Industry-academic cooperation project
+
+July, 2023  - In progress 🏃🏻‍♀️
+
+- Frontend Developer
+- Frontend 2, Backend 2
+- Typescript, Tailwind CSS, React, AWS, FastAPI
+
+<br>
+
+<br>
+
+**[🍅 AI Hackathon](https://www.notion.so/AI-Hackathon-ca90f9ffd813410d948c65b7e5382037?pvs=21)** : Smart Agricultural AI Competition 2023 
+
+September 16, 2023 - September 17, 2023
+
+- ML Developer
+- Developer 3
+- Scikit-Learn, Autogluon, Python
+
+<br>
+
+<br>
+
+**[🧟 Anti-Troll](https://www.notion.so/Anti-Troll-96c57b706ded4c3d8cf9a76ebe684aa0?pvs=21)** : Real-Time Hate Comment Filtering
+
+March 2023 - Jun 2023
+
+- ML Model Developer
+- Process 2, Model 1
+- BERT, Kafka, Spark
+
+<br>
+
+<br>
 
 
 **[👪 **Byourside**](https://www.notion.so/Byourside-8f2f2be4dd804055a5bf0576ac05f96d?pvs=21)** : Barrier-Free App Development Contest
@@ -41,34 +103,13 @@ April 18, 2022 - February 18, 2023
 
 <br>
 
-
-**[🍯 Beeside](https://www.notion.so/Beeside-4beeda2d9b4a48a6b26649333e2322e6?pvs=21)** : Open SW Developer Conference
-
-March 2023 - In progress
-
-- DevOps, FrontEnd Developer
-- Developer 3, Designer 1
-- IOS, GithubActions, Chat GPT API, Flutter, AWS
-
-<br>
-
-
-**[🧟 Anti-Troll](https://www.notion.so/Anti-Troll-96c57b706ded4c3d8cf9a76ebe684aa0?pvs=21)** : Real-Time Hate Comment Filtering
-
-March 2023 - Jun 2023
-
-- ML Model Developer
-- Process 2, Model 1
-- BERT, Kafka, Spark
-
 <br>
 
 
 <div align="left"><br>
 
-### 📌 Stacks
+## 📌 Stacks
 
-----
 
   <!-- Programming -->
   #### Programming:
