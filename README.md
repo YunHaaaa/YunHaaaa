@@ -20,89 +20,94 @@
 ## 🧗🏻‍♀️ Experience
 
 
-**[⚽ Kudos](https://www.notion.so/Kudos-d9c196bb1a2547bbbf317e530b945cee?pvs=21)** : The RoboCup Humanoid Soccer Competition
+**[⚽ Kudos](https://www.notion.so/Kudos-d9c196bb1a2547bbbf317e530b945cee?pvs=21) : The RoboCup Humanoid Soccer Competition**
 
-April 2022 - In progress 🏃🏻‍♀️
+April 20, 2022 - In progress 🏃🏻‍♀️
 
-- Vision Team
-- Vision 2, Control 3, Design 2
-- EdgeTPU, Tensorflow Lite OpenCV, Pytorch, ROS
+- Repo : [kudos_edgetpu_yolo](https://github.com/Kudos12th/kudos_edgetpu_yolo)
+- Role : Vision Model Developer
+- Team : Vision 2, Control 3, Design 2
+- Tech : EdgeTPU, Tensorflow Lite OpenCV, Pytorch, ROS
 
-<br>
-
-<br>
-
-**[📗 UROP](https://www.notion.so/UROP-eb06e2cdbbea42bbb493631ca795c71a?pvs=21)** : Participation in undergraduate research
-
-September 2023 - In progress 🏃🏻‍♀️
-
-- ML Developer
-- Developer 1
-- NLP, Knowledge Distillation, Pruning
 
 <br>
-
 <br>
 
-**[🍯 Beeside](https://www.notion.so/Beeside-4beeda2d9b4a48a6b26649333e2322e6?pvs=21)** : Open SW Developer Conference 2023
+**[📗 UROP](https://www.notion.so/UROP-eb06e2cdbbea42bbb493631ca795c71a?pvs=21) : Participation in undergraduate research**
 
-March 2023 - In progress 🏃🏻‍♀️
+September 7, 2023 - In progress 🏃🏻‍♀️
 
-- DevOps, Frontend Developer
-- Developer 3, Designer 1
-- IOS, GithubActions, Chat GPT API, Flutter, AWS
+- Repo : [UROP](https://github.com/YunHaaaa/UROP)
+- Role : ML Developer
+- Team : Developer 1
+- Tech : NLP, Knowledge Distillation, Pruning
 
 <br>
+<br>
+
+
+**[🍯 Beeside](https://www.notion.so/Beeside-4beeda2d9b4a48a6b26649333e2322e6?pvs=21) : Open SW Developer Conference 2023**
+
+March 1, 2023 - In progress 🏃🏻‍♀️
+
+- Repo : [Byourside](https://github.com/GYEOTEURO/Byourside)
+- Role : DevOps, Frontend Developer
+- Team : Developer 3, Designer 1
+- Tech : IOS, Github Actions, Chat GPT API, Flutter, AWS
 
 <br>
+<br>
+
 
 **💬 Obzen** : Industry-academic cooperation project
 
-July, 2023  - In progress 🏃🏻‍♀️
+July 4, 2023  - In progress 🏃🏻‍♀️
 
-- Frontend Developer
-- Frontend 2, Backend 2
-- Typescript, Tailwind CSS, React, AWS, FastAPI
-
-<br>
-
-<br>
-
-**[🍅 AI Hackathon](https://www.notion.so/AI-Hackathon-ca90f9ffd813410d948c65b7e5382037?pvs=21)** : Smart Agricultural AI Competition 2023 
-
-September 16, 2023 - September 17, 2023
-
-- ML Developer
-- Developer 3
-- Scikit-Learn, Autogluon, Python
+- Repo : [ui-final](https://github.com/kookmin-obzen-project/ui-final)
+- Role : Frontend Developer
+- Team : Frontend 2, Backend 2
+- Tech : Typescript, Tailwind CSS, React, AWS, FastAPI
 
 <br>
-
-<br>
-
-**[🧟 Anti-Troll](https://www.notion.so/Anti-Troll-96c57b706ded4c3d8cf9a76ebe684aa0?pvs=21)** : Real-Time Hate Comment Filtering
-
-March 2023 - Jun 2023
-
-- ML Model Developer
-- Process 2, Model 1
-- BERT, Kafka, Spark
-
-<br>
-
 <br>
 
 
-**[👪 **Byourside**](https://www.notion.so/Byourside-8f2f2be4dd804055a5bf0576ac05f96d?pvs=21)** : Barrier-Free App Development Contest
+**[🍅 AI Hackathon](https://www.notion.so/AI-Hackathon-ca90f9ffd813410d948c65b7e5382037?pvs=21) : Smart Agricultural AI Competition 2023**
 
-April 18, 2022 - February 18, 2023
+September 16, 2023 - September 17, 2023 👣
 
-- Login, Chat Developer
-- Developer 3
-- Flutter, Firebase, Android
+- Repo : private
+- Role : ML Developer
+- Team : Developer 3
+- Tech : Scikit-Learn, Autogluon, Python
 
 <br>
+<br>
 
+
+**[🧟 Anti-Troll](https://www.notion.so/Anti-Troll-96c57b706ded4c3d8cf9a76ebe684aa0?pvs=21) : Real-Time Hate Comment Filtering**
+
+March 1, 2023 - Jun 30, 2023 👣
+
+- Repo : [Realtime-Troll-Filtering](https://github.com/noooey/Realtime-Troll-Filtering)
+- Role : ML Developer
+- Team : Process 2, Model 1
+- Tech : BERT, Kafka, Spark, fastAPI
+
+<br>
+<br>
+
+
+**[👪 **Byourside**](https://www.notion.so/Byourside-8f2f2be4dd804055a5bf0576ac05f96d?pvs=21) : Barrier-Free App Development Contest**
+
+April 18, 2022 - February 18, 2023 👣
+
+- Repo : [Byourside](https://github.com/GYEOTEURO/Byourside)
+- Role : Login, Chat Developer
+- Team : Developer 3
+- Tech : Flutter, Firebase, Android
+
+<br>
 <br>
 
 
