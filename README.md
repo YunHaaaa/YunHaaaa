@@ -20,7 +20,7 @@
 ## 🧗🏻‍♀️ Experience
 
 
-**[⚽ Kudos](https://www.notion.so/Kudos-d9c196bb1a2547bbbf317e530b945cee?pvs=21) : The RoboCup Humanoid Soccer Competition**
+**[⚽ Kudos](https://www.notion.so/Kudos-d9c196bb1a2547bbbf317e530b945cee?pvs=21) : The RoboCup Humanoid Soccer Competition 2024**
 
 April 20, 2022 - In progress 🏃🏻‍♀️
 
@@ -59,7 +59,7 @@ March 1, 2023 - In progress 🏃🏻‍♀️
 <br>
 
 
-**💬 Obzen** : Industry-academic cooperation project
+**💬 Obzen : Industry-academic cooperation project**
 
 July 4, 2023  - In progress 🏃🏻‍♀️
 
@@ -98,7 +98,7 @@ March 1, 2023 - Jun 30, 2023 👣
 <br>
 
 
-**[👪 **Byourside**](https://www.notion.so/Byourside-8f2f2be4dd804055a5bf0576ac05f96d?pvs=21) : Barrier-Free App Development Contest**
+**[👪 **Byourside**](https://www.notion.so/Byourside-8f2f2be4dd804055a5bf0576ac05f96d?pvs=21) : Barrier-Free App Development Contest 2022**
 
 April 18, 2022 - February 18, 2023 👣
 
