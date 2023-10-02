@@ -91,7 +91,7 @@ March 1, 2023 - Jun 30, 2023 👣
 
 - Repo : [Realtime-Troll-Filtering](https://github.com/noooey/Realtime-Troll-Filtering)
 - Role : ML Developer
-- Team : Process 2, Model 1
+- Team : Data Engineer 2, Model 1
 - Tech : BERT, Kafka, Spark, fastAPI
 
 <br>
