@@ -123,14 +123,14 @@ April 18, 2022 - February 18, 2023 👣
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&style=margin-right: 100px">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&style=margin-right: 100px">
-
 
 
   <!-- Frameworks -->
   #### Frameworks:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&style=margin-right: 100px">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&style=margin-right: 100px">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&style=margin-right: 100px">
+
 
   <!-- Machine Learning -->
   #### Machine Learning:
@@ -176,5 +176,3 @@ April 18, 2022 - February 18, 2023 👣
 </div><br><br>
 
 
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
