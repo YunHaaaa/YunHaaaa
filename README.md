@@ -11,7 +11,7 @@
   
 </div><br><br>
 
-## ⚒️ Main Stack 
+## ⚒️ Main Stacks
 <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&style=margin-right: 100px">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&style=margin-right: 100px">
@@ -106,7 +106,7 @@ March 1, 2023 - Jun 30, 2023 👣
 April 18, 2022 - February 18, 2023 👣
 
 - Repo : [Byourside](https://github.com/GYEOTEURO/Byourside)
-- Role : Login, Chat Developer
+- Role : Frontend Developer
 - Tech : Flutter, Firebase, Android
 
 <br>
