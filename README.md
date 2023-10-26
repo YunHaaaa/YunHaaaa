@@ -75,7 +75,7 @@
 
 > July 4, 2023  - In progress 🏃🏻‍♀️
 
-- Repo : [ui-final](https://github.com/kookmin-obzen-project/ui-final)
+- Repo : private
 - Role : Frontend Developer
 - Tech : Typescript, Tailwind CSS, React, AWS, FastAPI
 
