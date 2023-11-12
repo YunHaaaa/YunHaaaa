@@ -73,7 +73,7 @@
 
 💬 Industry-academic cooperation project
 
-> July 4, 2023  - In progress 🏃🏻‍♀️
+> July 4, 2023  - November 12, 2023 👣
 
 - Repo : private
 - Role : Frontend Developer
