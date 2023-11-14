@@ -60,7 +60,7 @@
 
 💬 Open SW Developer Conference 2023
 
-> March 1, 2023 - In progress 🏃🏻‍♀️
+> March 1, 2023 - November 13, 2023 👣
 
 - Repo : [Byourside](https://github.com/GYEOTEURO/Byourside)
 - Role : DevOps, Frontend Developer
