@@ -27,9 +27,6 @@
   
 <br/>
 
-![YunHaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunHaaaa&show_icons=true&theme=tokyonight)
-
-
 ### Awards 
 
 | date | competition | prize |
